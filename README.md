@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @poornima
+- 👋 Hi, I’m @poornima karthikeyan.
 - 👀 I’m interested in Data science and Machine learning. 
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on any projects. 
